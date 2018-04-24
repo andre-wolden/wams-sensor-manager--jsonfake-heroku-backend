@@ -5,9 +5,9 @@
       "sn": "SN001",
       "pn": 1,
       "sensor_type": 1,
-      "calibration_certificate": "doc1",
+      "calibration_certificate": "",
       "project": 1,
-      "current_status": 6,
+      "current_status": 1,
       "mounting_location": 1
     }
   ],
