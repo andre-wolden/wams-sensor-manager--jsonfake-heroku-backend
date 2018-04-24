@@ -9,16 +9,6 @@
       "project": 1,
       "current_status": 6,
       "mounting_location": 1
-    },
-    {
-      "id": 2,
-      "sn": "SN002",
-      "pn": 1,
-      "sensor_type": 1,
-      "calibration_certificate": "Doc2",
-      "project": 1,
-      "current_status": 8,
-      "mounting_location": 1
     }
   ],
   "part_numbers": [
@@ -26,31 +16,12 @@
       "id": 1,
       "pn": "P6000121001",
       "calibration_procedure": "doc_proc_1"
-    },
-    {
-      "id": 2,
-      "pn": "P6000121013",
-      "calibration_procedure": "PROC13"
-    },
-    {
-      "id": 3,
-      "pn": "P6000131033",
-      "calibration_procedure": "PRC131013232323"
-    },
-    {
-      "id": 4,
-      "pn": "F6000riday",
-      "calibration_procedure": "HFTgif001"
     }
   ],
   "sensor_types": [
     {
       "id": 1,
       "description": "Inclinometer"
-    },
-    {
-      "id": 2,
-      "description": "Strain Gauge"
     }
   ],
   "projects": [
@@ -58,80 +29,18 @@
       "id": 1,
       "name": "Statfjord",
       "customer": 1
-    },
-    {
-      "id": 2,
-      "name": "Anadarko",
-      "customer": 5
-    },
-    {
-      "id": 5,
-      "name": "Datainn",
-      "customer": 6
-    },
-    {
-      "id": 6,
-      "name": "Plan B",
-      "customer": 5
-    },
-    {
-      "id": 7,
-      "name": "asdf",
-      "customer": 2
-    },
-    {
-      "id": 8,
-      "name": "FridayProject",
-      "customer": 8
-    },
-    {
-      "id": 9,
-      "name": "heihei",
-      "customer": 4
     }
   ],
   "customers": [
     {
       "id": 1,
       "name": "Statoil"
-    },
-    {
-      "id": 2,
-      "name": "Chevron"
-    },
-    {
-      "id": 3,
-      "name": "Bekk"
-    },
-    {
-      "id": 4,
-      "name": "Byggmakker"
-    },
-    {
-      "id": 5,
-      "name": "McDonalds"
-    },
-    {
-      "id": 6,
-      "name": "Oslo Kommune"
-    },
-    {
-      "id": 7,
-      "name": "Nordbyen"
-    },
-    {
-      "id": 8,
-      "name": "FridayCustomer"
     }
   ],
   "mounting_locations": [
     {
       "id": 1,
       "description": "TJ"
-    },
-    {
-      "id": 2,
-      "description": "LTSJ"
     }
   ],
   "status_codes": [
@@ -146,18 +55,6 @@
     {
       "id": 1,
       "name": "Karsten"
-    },
-    {
-      "id": 2,
-      "name": "Andre"
-    },
-    {
-      "id": 3,
-      "name": "asdf"
-    },
-    {
-      "id": 4,
-      "name": "Meddern"
     }
   ],
   "status_log": [
